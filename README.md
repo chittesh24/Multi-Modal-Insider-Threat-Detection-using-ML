@@ -3,6 +3,8 @@
 
 This package contains an updated, eye-catching Streamlit UI (app_new.py) that highlights threat users separately and provides a clean dashboard for demos.
 
+# Deployment Link: https://multi-modal-insider-threat-detection-using-ml-mycma8vjfqutaugz.streamlit.app/
+
 Files:
 - app_new.py : Polished Streamlit dashboard (open with `streamlit run app_new.py`)
 - requirements.txt : Python dependencies
